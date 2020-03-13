@@ -7180,6 +7180,9 @@ body {
     height: 100%;
     z-index: 1; }
 
+#quotes i {
+  opacity: 0.3; }
+
 @media (max-width: 768px) {
   .navbar {
     background: #1f1f1f; }
